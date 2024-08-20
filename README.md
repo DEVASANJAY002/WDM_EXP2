@@ -53,5 +53,7 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+![Screenshot 2024-08-20 084632](https://github.com/user-attachments/assets/641d6d87-7699-441e-9678-acaebad495ec)
 
 ### RESULT: 
+the data is associateed.
