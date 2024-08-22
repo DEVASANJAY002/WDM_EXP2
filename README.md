@@ -50,7 +50,7 @@ G40,high,yes,excellent,yes
 3) Click on open file and select buying.arff
 4) Select Associate option on the top of the Menu bar.
 5) Select Choose button and then click on Apriori Algorithm.
-6) Click on Start button and output will be displayed on the right side of the window.
+6) Click on Start button and output will be displayed on the right side of the window
 
 ### OUTPUT:
 ![Screenshot 2024-08-20 084632](https://github.com/user-attachments/assets/641d6d87-7699-441e-9678-acaebad495ec)
